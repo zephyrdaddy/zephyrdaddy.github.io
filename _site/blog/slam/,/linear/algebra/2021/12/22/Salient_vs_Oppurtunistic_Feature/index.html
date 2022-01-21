@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Observability of a System (En) &middot; Celeste
+    
+  </title>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700" type="text/css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon.png">
+  
+  <link rel="alternate" type="application/atom+xml" title="Celeste" href="/atom.xml">
+</head>
+
+
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="hvr-underline-reveal"><a href="/about/">about</a></li>
+        <li class="logo"><a class="hvr-ripple-out" href="/">C</a></li>
+        <li class="hvr-underline-reveal"><a href="/blog/">blog</a></li>
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <main>
+        <article class="post">
+  <h1 class="post-title">Observability of a System (En)</h1>
+  <time datetime="2021-12-22T00:09:36+09:00" class="post-date">22 Dec 2021</time>
+  <p>State Space Representation of a System</p>
+
+<p>In a system, observability is a measusure of how well internal states can be inferred from knowledge of its external outputs.</p>
+
+<p>what’s measured through the sensors are outputs of the system.</p>
+
+<p>SISO system with n state variables</p>
+
+<p>(E=mc^2)，\(x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.\)</p>
+
+<p>Using image features -&gt; unobservable state occurs</p>
+
+<p>What’s the observability matrix in this case?</p>
+
+<p>가관측성 
+완전 가관측성 특성</p>
+
+<p>Total/ stripped observability matrix 
+Eigenvalue analysis</p>
+
+<p>Bearing and Elevation from camera sensor</p>
+
+<p>dynamics model of the state</p>
+
+<p>Observability can be analyzed only in the linear model.
+So we linearize the observation model.</p>
+
+<p>There may be some linearization error but</p>
+
+<p>How to linearize the vo vio model</p>
+
+<p>Observation matrix data로 적어보기</p>
+
+<p>The observability gramian is defined as a function of the linearized measurement model H and the discrete time state transition matrix Phi.</p>
+
+<p>from time step 1 to k.</p>
+
+<p>State space model</p>
+
+<p>continuous model -&gt; linearized model</p>
+
+<p>We need linearized model for observability analysis</p>
+
+<p>Some example data of IMU and camera</p>
+
+<p>Unobservable direction 에 대해선 do not update information. To prevent diverging information</p>
+
+<p>Matrix derivatives</p>
+
+<p>SLAM</p>
+
+<p>Check out the <a href="https://webdiis.unizar.es/~raulmur/orbslam/">article</a> <a href="https://webdiis.unizar.es/~raulmur/orbslam/">article-link</a></p>
+
+
+</article>
+
+      </main>
+
+      <footer class="footer">
+        <small>
+            <span class="copyright"><i class="fa fa-copyright"></i> 2015-<time datetime="2022-01-21T22:40:11+09:00">2022</time> Nico Elayda</span> &middot;
+            <span>Powered by <a href="http://jekyllrb.com/">Jekyll</a></span>
+        </small>
+        <div class="ftr-links">
+          <a href="https://github.com/nicoelayda"><i class="fa fa-github-alt"></i></a>
+          <a href="https://twitter.com/nicoelayda"><i class="fa fa-twitter"></i></a>
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>
