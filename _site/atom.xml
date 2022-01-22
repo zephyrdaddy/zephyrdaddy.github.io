@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Celeste</title>
+ <title>Lanyon</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000"/>
- <updated>2022-01-21T22:40:11+09:00</updated>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-01-22T16:49:30+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Nico Elayda</name>
-   <email>nico@elayda.com</email>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
  </author>
 
  
  <entry>
    <title>Observability of a System (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Relativity_Theory/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/Relativity_Theory/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Relativity_Theory</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/Relativity_Theory</id>
    <content type="html">&lt;p&gt;Speed of light is constant&lt;/p&gt;
 
 &lt;p&gt;true in normal flat space&lt;/p&gt;
@@ -36,9 +36,9 @@
  
  <entry>
    <title>Vanishing Gradient (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/VanishingGradient/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/VanishingGradient/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/VanishingGradient</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/VanishingGradient</id>
    <content type="html">&lt;p&gt;Vanishing Gradient&lt;/p&gt;
 
 &lt;p&gt;Back propagation allowed researchers to train.&lt;/p&gt;
@@ -52,9 +52,9 @@
  
  <entry>
    <title>Observability of a System (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Triangulation/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/Triangulation/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Triangulation</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/Triangulation</id>
    <content type="html">&lt;p&gt;State Space Representation of a System&lt;/p&gt;
 
 &lt;p&gt;In a system, observability is a measusure of how well internal states can be inferred from knowledge of its external outputs.&lt;/p&gt;
@@ -103,9 +103,9 @@ So we linearize the observation model.&lt;/p&gt;
  
  <entry>
    <title>Tesla AI Day</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Tesla_AI_Day/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/Tesla_AI_Day/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Tesla_AI_Day</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/Tesla_AI_Day</id>
    <content type="html">&lt;p&gt;Tesla AI Day 
 Vector space&lt;/p&gt;
 
@@ -129,9 +129,9 @@ using transformer&lt;/p&gt;
  
  <entry>
    <title>Observability of a System (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Salient_vs_Oppurtunistic_Feature/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/Salient_vs_Oppurtunistic_Feature/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Salient_vs_Oppurtunistic_Feature</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/Salient_vs_Oppurtunistic_Feature</id>
    <content type="html">&lt;p&gt;State Space Representation of a System&lt;/p&gt;
 
 &lt;p&gt;In a system, observability is a measusure of how well internal states can be inferred from knowledge of its external outputs.&lt;/p&gt;
@@ -190,9 +190,9 @@ So we linearize the observation model.&lt;/p&gt;
  
  <entry>
    <title>Observability of a System (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Observability/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/Observability/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/Observability</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/Observability</id>
    <content type="html">&lt;p&gt;State Space Representation of a System&lt;/p&gt;
 
 &lt;p&gt;In a system, observability is a measusure of how well internal states can be inferred from knowledge of its external outputs.&lt;/p&gt;
@@ -243,9 +243,9 @@ So we linearize the observation model.&lt;/p&gt;
  
  <entry>
    <title>Observability of a System (En)</title>
-   <link href="http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/IMU_Integration/"/>
+   <link href="http://localhost:4000/slam/,/linear/algebra/2021/12/22/IMU_Integration/"/>
    <updated>2021-12-22T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/,/linear/algebra/2021/12/22/IMU_Integration</id>
+   <id>http://localhost:4000/slam/,/linear/algebra/2021/12/22/IMU_Integration</id>
    <content type="html">&lt;p&gt;State Space Representation of a System&lt;/p&gt;
 
 &lt;p&gt;In a system, observability is a measusure of how well internal states can be inferred from knowledge of its external outputs.&lt;/p&gt;
@@ -294,9 +294,9 @@ So we linearize the observation model.&lt;/p&gt;
  
  <entry>
    <title>SLAM Marginalization</title>
-   <link href="http://localhost:4000/blog/slam/2021/12/02/SLAM-Marginalization/"/>
+   <link href="http://localhost:4000/slam/2021/12/02/SLAM-Marginalization/"/>
    <updated>2021-12-02T00:09:36+09:00</updated>
-   <id>http://localhost:4000/blog/slam/2021/12/02/SLAM-Marginalization</id>
+   <id>http://localhost:4000/slam/2021/12/02/SLAM-Marginalization</id>
    <content type="html">&lt;p&gt;SLAM&lt;/p&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://webdiis.unizar.es/~raulmur/orbslam/&quot;&gt;article&lt;/a&gt; &lt;a href=&quot;https://webdiis.unizar.es/~raulmur/orbslam/&quot;&gt;article-link&lt;/a&gt;&lt;/p&gt;
