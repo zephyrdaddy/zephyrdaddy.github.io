@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SLAM Frontend (En)"
-date:   2022-05-17 12:39:36 +0530
+date:   2022-05-16 12:39:36 +0530
 categories: SLAM 
 ---
 Frontend System consists of the modules.

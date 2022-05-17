@@ -4,13 +4,58 @@
  <title>ZephyrDaddy</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-17T12:55:49+09:00</updated>
+ <updated>2022-05-17T13:04:31+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>SLAM Frontend (En)</title>
+   <link href="http://localhost:4000/slam/2022/05/16/SLAMFrontend/"/>
+   <updated>2022-05-16T16:09:36+09:00</updated>
+   <id>http://localhost:4000/slam/2022/05/16/SLAMFrontend</id>
+   <content type="html">&lt;p&gt;Frontend System consists of the modules.
+Tracking, Matching,
+Only tracking on 2D space&lt;/p&gt;
+
+&lt;p&gt;output landmark feature -&amp;gt; 2D feature -&amp;gt; linked list&lt;/p&gt;
+
+&lt;p&gt;Assumption pose is given&lt;/p&gt;
+
+&lt;p&gt;Now that we have the pose and the 2D feature correspondences, we can reconstruct 3D scene.&lt;/p&gt;
+
+&lt;p&gt;vector&amp;lt;landmark_2d*&amp;gt; 
+prev and next suffice?&lt;/p&gt;
+
+&lt;p&gt;Is there any odometry information?&lt;/p&gt;
+
+&lt;p&gt;Different problem
+Initialization -&amp;gt; 
+-&amp;gt; Assuming depth is given
+-&amp;gt; Not assuming that&lt;/p&gt;
+
+&lt;p&gt;Map data type&lt;/p&gt;
+
+&lt;p&gt;Image Files -&amp;gt; 
+AirSim -&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Performance evaluation criteria&lt;/p&gt;
+
+&lt;p&gt;Point features&lt;/p&gt;
+
+&lt;p&gt;Featurewise comparison&lt;/p&gt;
+
+&lt;p&gt;Memory Management.&lt;/p&gt;
+
+&lt;p&gt;Step by step following&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://webdiis.unizar.es/~raulmur/orbslam/&quot;&gt;article&lt;/a&gt; &lt;a href=&quot;https://webdiis.unizar.es/~raulmur/orbslam/&quot;&gt;article-link&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
 
 </feed>
