@@ -73,16 +73,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 90%; /* Small screens start wide */
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 85%; /* Use 85% of screen width on medium screens */
   }
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 80%; /* Use 80% of screen width on large screens */
   }
 }
 
