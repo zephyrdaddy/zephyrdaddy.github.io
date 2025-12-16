@@ -74,6 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   max-width: 90%; /* Small screens start wide */
+  margin: 0 auto; /* Shorthand for top/bottom 0, left/right auto */
 }
 @media (min-width: 38em) {
   .container {
@@ -294,9 +295,6 @@ a.sidebar-nav-item:focus {
           transform: translateX(14rem);
 }
 
-.wrap {
-  width: 100%; 
-}
 
 /*
  * Posts and pages
@@ -321,6 +319,9 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.page-title {
+    text-align: center;
+}
 /* Meta data line below post title */
 .post-date {
   display: block;
