@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/  <-- Add this line!
 ---
 
 ## Who I Am
