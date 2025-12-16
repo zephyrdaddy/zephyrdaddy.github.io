@@ -294,6 +294,9 @@ a.sidebar-nav-item:focus {
           transform: translateX(14rem);
 }
 
+.wrap {
+  width: 100%; 
+}
 
 /*
  * Posts and pages
